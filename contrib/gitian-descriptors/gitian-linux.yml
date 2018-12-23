@@ -27,8 +27,10 @@ packages:
 - "bsdmainutils"
 - "ca-certificates"
 - "python"
+- "svg"
+- "libsvg"
 remotes:
-- "url": "https://github.com/Veil-Project/veil.git"
+- "url": "https://github.com/4x13/veil.git"
   "dir": "veil"
 files: []
 script: |
